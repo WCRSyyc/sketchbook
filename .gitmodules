@@ -25,3 +25,6 @@
 [submodule "servo-calibration"]
 	path = servo-calibration
 	url = https://github.com/WCRSyyc/servo-calibration.git
+[submodule "libraries"]
+	path = libraries
+	url = https://github.com/WCRSyyc/libraries.git
