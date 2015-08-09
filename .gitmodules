@@ -28,3 +28,6 @@
 [submodule "libraries"]
 	path = libraries
 	url = https://github.com/WCRSyyc/libraries.git
+[submodule "door-lock-test"]
+	path = door-lock-test
+	url = https://github.com/WCRSyyc/door-lock-test.git
