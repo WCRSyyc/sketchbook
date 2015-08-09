@@ -31,3 +31,6 @@
 [submodule "door-lock-test"]
 	path = door-lock-test
 	url = https://github.com/WCRSyyc/door-lock-test.git
+[submodule "drummerduino"]
+	path = drummerduino
+	url = https://github.com/WCRSyyc/drummerduino.git
