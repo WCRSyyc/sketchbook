@@ -58,3 +58,6 @@
 [submodule "nRF2401-motors03"]
 	path = nRF2401-motors03
 	url = https://github.com/WCRSyyc/nRF2401-motors03.git
+[submodule "optical_tachometer"]
+	path = optical_tachometer
+	url = https://github.com/WCRSyyc/optical_tachometer

@@ -12,5 +12,7 @@ from the command line.
 
 The issue tracker for this repository should be used for other sketches that should be added to this repository, or things that do not belong.  Comments and issues with individual sketches should go in the issue tracker for that submodule repository.  Issues that affect multiple sketches, or the interaction between them, can go here, **if** there is no other repository that already groups the related sketches together.
 
+See the [github page](http://wcrsyyc.github.io/sketchbook/) for this repository.
+
 [carbot](https://github.com/WCRSyyc/carbot), [asmac-display](https://github.com/WCRSyyc/asmac-display)
 are repositories that also hold multiple sketches.  Related content belongs over there.

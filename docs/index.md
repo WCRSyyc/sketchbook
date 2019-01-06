@@ -6,7 +6,7 @@ The [WCRSyyc](https://github.com/WCRSyyc) [sketchbook repository](https://github
 git clone --recursive https://github.com/WCRSyyc/sketchbook.git
 ```
 
-The individual repositories have their own github wiki and issues page.  Some have their own github pages as well.  The information here is mostly about information that relates to, or references, multiple repositories.  If it is about a single repository, it probably belongs either in the wiki for that repository, or in the associated github pages.  The main github pages landing page for the [Western Canadian Robotics Society](https://wcrsyyc.github.io/) (WCRS YYC) is the preferred starting place for robotics information, our current projects, learning information and resources.  This page will have background information about the Arduino code, and how some of the projects evolved.
+The individual repositories have their own github wiki and issues page.  Some have their own github pages as well.  The content here is mostly about information that relates to, or references, multiple sketches.  If it is about a single repository, it probably belongs either in the wiki for that repository, or in the associated github pages.  The main github pages landing page for the [Western Canadian Robotics Society](https://wcrsyyc.github.io/) (WCRS YYC) is the preferred starting place for robotics information, our current projects, learning information and resources.  This page will have background information about the Arduino code, and how some of the projects evolved.
 
 * Omni Wheel Line Follower
   * [circle-lf-sensor-test](https://github.com/WCRSyyc/circle-lf-sensor-test)
@@ -33,3 +33,4 @@ The individual repositories have their own github wiki and issues page.  Some ha
 * [libraries](https://github.com/WCRSyyc/libraries)
 * [spatula-bot](https://github.com/WCRSyyc/spatula-bot)
 * [tripod-dir-test](https://github.com/WCRSyyc/tripod-dir-test)
+* [optical_tachometer](https://github.com/WCRSyyc/optical_tachometer)
