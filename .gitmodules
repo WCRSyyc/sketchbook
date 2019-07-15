@@ -61,3 +61,6 @@
 [submodule "optical_tachometer"]
 	path = optical_tachometer
 	url = https://github.com/WCRSyyc/optical_tachometer
+[submodule "optical-tach-serial"]
+	path = optical-tach-serial
+	url = https://github.com/WCRSyyc/optical-tach-serial.git

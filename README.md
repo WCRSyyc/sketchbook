@@ -10,6 +10,14 @@ git clone --recursive https://github.com/WCRSyyc/sketchbook.git
 
 from the command line.
 
+To later make sure that sketchbook, and all of the submodule sketches, are the lastest version from their individual repositories, change to the sketchbook folder, then
+
+```sh
+git pull
+git submodule for each git checkout master
+git submodule for each git pull
+```
+
 The issue tracker for this repository should be used for other sketches that should be added to this repository, or things that do not belong.  Comments and issues with individual sketches should go in the issue tracker for that submodule repository.  Issues that affect multiple sketches, or the interaction between them, can go here, **if** there is no other repository that already groups the related sketches together.
 
 See the [github page](http://wcrsyyc.github.io/sketchbook/) for this repository.
